@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "880340788998",
+    "project_id": "farisapp-495cb",
+    "storage_bucket": "farisapp-495cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880340788998:android:400f5920292d4ebfcd2087",
+        "android_client_info": {
+          "package_name": "com.FarisCoins.FarisCoins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880340788998-ksjlpltp1rtl2tkfgruae1pmf1eorr70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-8sULjZZjUlkzlhBN7WVb-uIFqMiFZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880340788998-ksjlpltp1rtl2tkfgruae1pmf1eorr70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880340788998-2rcgsei7l3lqnpof63141kcbufsflkjd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FarisCoins.FarisCoins"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880340788998:android:317b02027623f216cd2087",
+        "android_client_info": {
+          "package_name": "com.example.mahara_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880340788998-ksjlpltp1rtl2tkfgruae1pmf1eorr70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-8sULjZZjUlkzlhBN7WVb-uIFqMiFZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880340788998-ksjlpltp1rtl2tkfgruae1pmf1eorr70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880340788998-2rcgsei7l3lqnpof63141kcbufsflkjd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FarisCoins.FarisCoins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
